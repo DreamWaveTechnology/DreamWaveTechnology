@@ -2,7 +2,7 @@
 
 ## 🚀 Empowering Innovation for a Digital Future
 
-DreamWave Technology turns innovative ideas into powerful digital experiences. Our expert team specializes in building dynamic web applications, e-commerce platforms, and sophisticated management systems.
+DreamWave Technology turns innovative ideas into powerful digital experiences. We specializes in building dynamic web applications, e-commerce platforms, and sophisticated management systems.
 
 We also craft modern, ATS-friendly professional resumes and portfolios that help individuals shine in today's competitive job market, delivering secure, creative, and scrapable web solutions designed for learning, career, and growth.
 
@@ -72,7 +72,6 @@ We'd love to hear from you! Share your message with DreamWave Technology, and ou
 |-----|------|
 | Monday - Friday | 9:00 AM - 5:00 PM |
 | Saturday | 10:00 AM - 4:00 PM |
-| Sunday | Closed |
 
 ### Follow Us
 
