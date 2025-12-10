@@ -15,8 +15,9 @@
 ---
 
 <div align="center">
-<p>DreamWave Technology transforms innovative concepts into powerful digital experiences. We specialize in developing dynamic web applications, robust e-commerce platforms, and sophisticated management systems.</p>
-<p>Additionally, we craft modern, ATS-optimized professional resumes and portfolios designed to help individuals excel in today's competitive job market. Our solutions are secure, creative, and built for growth.</p>
+  <p>DreamWave Technology transforms innovative concepts into powerful digital experiences. We specialize in developing dynamic web applications, robust e-commerce platforms, and sophisticated management systems.</p>
+  <p>Additionally, we craft modern, ATS-optimized professional resumes and portfolios designed to help individuals excel in today's competitive job market. Our solutions are secure, creative, and built for       growth.</p>
+</div>
 
 ---
 
