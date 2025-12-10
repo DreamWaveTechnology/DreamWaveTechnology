@@ -96,17 +96,23 @@ We'd love to hear from you! Share your message with DreamWave Technology, and ou
 </ul>
 
 ### Follow Us
-[<img src="https://img.shields.io/badge/-YouTube-%23E60023?style=for-the-badge&logo=YouTube&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />]()
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />]()
+[<img src="https://img.shields.io/badge/-YouTube-%23E60023?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/@DreamWaveTechnology
+)
+[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/profile.php?id=61584730496127
+)
+[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white" />](https://www.linkedin.com/company/dreamwave-technology
+)
+[<img src="https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white" />](https://www.pinterest.com/dreamwavetechnology
+)
+[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DreamWaveTechnology
+)
+[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029Vb6dqy51yT2B9J8hEn3f )
+[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+zZ5u7Fu2UehiZThl
+)
 [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />]()
 
 ---
 
 <div align="center">
-  <i>© 2025 DreamWave Technology. All rights reserved.</i>
+  <i>© 2025 DreamWave Technology | All rights reserved.</i>
 </div>
