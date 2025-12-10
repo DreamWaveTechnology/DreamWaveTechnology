@@ -20,10 +20,9 @@
 </div>
 
 ---
-
-<h1 align="center"> 🛠️ Our Services </h1>
-
-We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.
+<div align="center">
+  <h1> 🛠️ Our Services </h1>
+  <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
 
 <ul>
   <li><b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms.</li>
@@ -33,6 +32,15 @@ We provide a comprehensive suite of digital services, meticulously tailored to b
   <li><b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy.</li>
   <li><b>Document Services</b> – Professional formatting, editing, and technical documentation.</li>
 </ul>
+
+<p>
+  <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
+  <b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility. <br>
+  <b>UI/UX Design</b> – Intuitive, engaging user interfaces focused on usability and conversion.</li>
+  <b>E-Commerce Platforms</b> – Secure, scalable online stores engineered for retail success. <br>
+  <b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy. <br>
+  <b>Document Services</b> – Professional formatting, editing, and technical documentation.
+</p>
 
 ---
 
