@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <h1> 🛠️ Our Services </h1>
+  <h2> 🛠️ Our Services </h2>
   <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
   <p>
     <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
@@ -37,7 +37,7 @@
 ---
 
 <div align="center">
-  <h1> 🌟 Why Choose DreamWave? </h1>
+  <h2> 🌟 Why Choose DreamWave? </h2>
   <h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
   <p>
     <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
@@ -53,7 +53,7 @@
 ---
 
 <div align="center">
-  <h1> 📂 Project Showcase </h1>
+  <h2> 📂 Project Showcase </h2>
   <h3>Our portfolio reflects a commitment to precision, creativity, and tangible results.</h3>
   <p>
     <b>Custom Portfolio Websites</b> – Professional digital showcases for individuals and businesses. <br>
@@ -67,7 +67,7 @@
 ---
 
 <div align="center">
-  <h1> 📖 Our Story </h1>
+  <h2> 📖 Our Story </h2>
   <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
   <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
   <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
@@ -76,14 +76,14 @@
 ---
 
 <div align="center">
-  <h1> 🤝 Become a Creator </h1>
+  <h2> 🤝 Become a Creator </h2>
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
   <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
 </div>
 
 ---
 
-<h1 align="center"> 👨‍💻 Meet the Team </h1>
+<h2 align="center"> 👨‍💻 Meet the Team </h2>
 
 <div align="center">
 
@@ -96,7 +96,7 @@
 ---
 
 <div align="center">
-  <h1> 📞 Get In Touch </h1>
+  <h2> 📞 Get In Touch </h2>
   <h3>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</h3>
   
   <h2>Contact Details</h2>
