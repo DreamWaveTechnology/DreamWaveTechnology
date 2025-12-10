@@ -1,5 +1,3 @@
-<h1>DREAMWAVE TECHNOLOGY</h1>
-
 # DreamWave Technology
 
 ## 🚀 Empowering Innovation for a Digital Future
