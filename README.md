@@ -84,6 +84,19 @@ Interested in collaborating with DreamWave Technology? Join our growing communit
 
 ---
 
+<h1 align="center"> 👨‍💻 Meet the Team </h1>
+
+<div align="center">
+
+| | | |
+| :---: | :---: | :---: |
+| <a href="https://github.com/WINODH-PRASANNA"><img src="https://avatars.githubusercontent.com/WINODH-PRASANNA" width="50" style="border-radius:50%"></a> | <a href="https://github.com/username"><img src="https://avatars.githubusercontent.com/username" width="120" style="border-radius:50%"></a> | <a href="https://github.com/username"><img src="https://avatars.githubusercontent.com/username" width="120" style="border-radius:50%"></a> |
+| **[Winodh Prasanna](https://github.com/WINODH-PRASANNA)**<br>Founder | **[Team Member](https://github.com/username)**<br>Developer | **[Team Member](https://github.com/username)**<br>Designer |
+
+</div>
+
+---
+
 <h1 align="center"> 📞 Get In Touch </h1>
 
 We welcome your inquiries. Our team is committed to providing a responsive and professional experience.
@@ -116,16 +129,4 @@ We welcome your inquiries. Our team is committed to providing a responsive and p
 
 <div align="center">
   <i>© 2025 DreamWave Technology | All rights reserved.</i>
-</div>
-
-
-## 👨‍💻 Meet the Team
-
-<div align="center">
-
-| | | |
-| :---: | :---: | :---: |
-| <a href="https://github.com/WINODH-PRASANNA"><img src="https://avatars.githubusercontent.com/WINODH-PRASANNA" width="120" style="border-radius:50%"></a> | <a href="https://github.com/username"><img src="https://avatars.githubusercontent.com/username" width="120" style="border-radius:50%"></a> | <a href="https://github.com/username"><img src="https://avatars.githubusercontent.com/username" width="120" style="border-radius:50%"></a> |
-| **[Winodh Prasanna](https://github.com/WINODH-PRASANNA)**<br>Founder | **[Team Member](https://github.com/username)**<br>Developer | **[Team Member](https://github.com/username)**<br>Designer |
-
 </div>
