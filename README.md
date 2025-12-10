@@ -36,10 +36,11 @@
 </div>
 
 ---
+
 <div align="center">
 
   <h1> 🌟 Why Choose DreamWave? </h1>
-  <h3></h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
+  <h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
 
   <p>
     <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
@@ -55,17 +56,20 @@
 
 ---
 
-<h1 align="center"> 📂 Project Showcase </h1>
+<div align="center">
 
-Our portfolio reflects a commitment to precision, creativity, and tangible results.
+  <h1> 📂 Project Showcase </h1>
+  <h3>Our portfolio reflects a commitment to precision, creativity, and tangible results.</h3>
+  
+  <p>
+    <b>Custom Portfolio Websites</b> – Professional digital showcases for individuals and businesses. <br>
+    <b>E-Commerce Solutions</b> – Feature-rich online marketplaces with integrated shopping systems. <br>
+    <b>Resume Builder Platforms</b> – Tools and services for creating standout professional documents. <br>
+    <b>Fully Responsive Web Design</b> – Optimized, accessible experiences across all devices. <br>
+    <b>Business Management Systems</b> – Internal dashboards and tools for operational efficiency. <br>
+  </p>
 
-<ul>
-  <li><b>Custom Portfolio Websites</b> – Professional digital showcases for individuals and businesses.</li>
-  <li><b>E-Commerce Solutions</b> – Feature-rich online marketplaces with integrated shopping systems.</li>
-  <li><b>Resume Builder Platforms</b> – Tools and services for creating standout professional documents.</li>
-  <li><b>Fully Responsive Web Design</b> – Optimized, accessible experiences across all devices.</li>
-  <li><b>Business Management Systems</b> – Internal dashboards and tools for operational efficiency.</li>
-</ul>
+</div>
 
 ---
 
