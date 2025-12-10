@@ -3,9 +3,8 @@
   <h1>WELCOME TO DREAMWAVE TECHNOLOGY</h1>
   <h3>Empowering Innovation for a Digital Future</h3>
   <a href="">Visit DreamWave Technology</a>
+  <br><br>
 </div>
-
----
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=DreamWaveTechnology&style=for-the-badge&color=blueviolet" alt="Visitor Count" />
@@ -19,8 +18,6 @@
   <p>Additionally, we craft modern, ATS-optimized professional resumes and portfolios designed to help individuals excel in today's competitive job market. Our solutions are secure, creative, and built for       growth.</p>
 </div>
 
----
-
 <div align="center">
   <h2> 🛠️ Our Services </h2>
   <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
@@ -33,8 +30,6 @@
     <b>Document Services</b> – Professional formatting, editing, and technical documentation.
   </p>
 </div>
-
----
 
 <div align="center">
   <h2> 🌟 Why Choose DreamWave? </h2>
@@ -50,8 +45,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h2> 📂 Project Showcase </h2>
   <h3>Our portfolio reflects a commitment to precision, creativity, and tangible results.</h3>
@@ -64,8 +57,6 @@
   </p>
 </div>
 
----
-
 <div align="center">
   <h2> 📖 Our Story </h2>
   <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
@@ -73,15 +64,11 @@
   <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
 </div>
 
----
-
 <div align="center">
   <h2> 🤝 Become a Creator </h2>
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
   <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
 </div>
-
----
 
 <!-- <h2 align="center"> 👨‍💻 Meet the Team </h2>
 
@@ -92,8 +79,6 @@
 | <a href="https://github.com/DreamWaveTechnology"><img src="https://avatars.githubusercontent.com/DreamWaveTechnology" style="width:50px; height:50px; border-radius:50% !important; object-fit:cover;"></a> | <a href="https://github.com/WINODH-PRASANNA"><img src="https://avatars.githubusercontent.com/WINODH-PRASANNA" style="width:50px; height:50px; border-radius:50% !important; object-fit:cover;"></a> |
 
 </div> -->
-
----
 
 <div align="center">
   <h2> 📞 Get In Touch </h2>
@@ -126,7 +111,6 @@
 
 </div>
 
----
 
 <div align="center">
   <i>© 2025 DreamWave Technology | All rights reserved.</i>
