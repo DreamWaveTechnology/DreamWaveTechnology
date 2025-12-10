@@ -24,23 +24,14 @@
   <h1> 🛠️ Our Services </h1>
   <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
 
-<ul>
-  <li><b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms.</li>
-  <li><b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility.</li>
-  <li><b>UI/UX Design</b> – Intuitive, engaging user interfaces focused on usability and conversion.</li>
-  <li><b>E-Commerce Platforms</b> – Secure, scalable online stores engineered for retail success.</li>
-  <li><b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy.</li>
-  <li><b>Document Services</b> – Professional formatting, editing, and technical documentation.</li>
-</ul>
-
-<p>
-  <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
-  <b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility. <br>
-  <b>UI/UX Design</b> – Intuitive, engaging user interfaces focused on usability and conversion.</li>
-  <b>E-Commerce Platforms</b> – Secure, scalable online stores engineered for retail success. <br>
-  <b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy. <br>
-  <b>Document Services</b> – Professional formatting, editing, and technical documentation.
-</p>
+  <p>
+    <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
+    <b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility. <br>
+    <b>UI/UX Design</b> – Intuitive, engaging user interfaces focused on usability and conversion. <br>
+    <b>E-Commerce Platforms</b> – Secure, scalable online stores engineered for retail success. <br>
+    <b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy. <br>
+    <b>Document Services</b> – Professional formatting, editing, and technical documentation.
+  </p>
 
 ---
 
@@ -48,15 +39,15 @@
 
 We deliver solutions that are not only functional but transformative, built on a foundation of core principles.
 
-<ul>
-  <li><b>Security & Reliability</b> – Robust architectures and consistent performance are paramount.</li>
-  <li><b>Skill-Enhancing Design</b> – Projects structured to provide real-world learning and skill development.</li>
-  <li><b>Future-Proof Technology</b> – Utilization of modern, scalable stacks for long-term viability.</li>
-  <li><b>UI/UX Excellence</b> – Intuitive and aesthetically refined interfaces for superior user experiences.</li>
-  <li><b>Dedicated Support</b> – Continuous assistance and a collaborative partnership approach.</li>
-  <li><b>Universal Accessibility</b> – Solutions designed to be widely usable, regardless of technical expertise.</li>
-  <li><b>Commitment to Innovation</b> – Continuous exploration of emerging methodologies to keep your project ahead.</li>
-</ul>
+  <p>
+    <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
+    <b>Skill-Enhancing Design</b> – Projects structured to provide real-world learning and skill development. <br>
+    <b>Future-Proof Technology</b> – Utilization of modern, scalable stacks for long-term viability. <br>
+    <b>UI/UX Excellence</b> – Intuitive and aesthetically refined interfaces for superior user experiences. <br>
+    <b>Dedicated Support</b> – Continuous assistance and a collaborative partnership approach. <br>
+    <b>Universal Accessibility</b> – Solutions designed to be widely usable, regardless of technical expertise. <br>
+    <b>Commitment to Innovation</b> – Continuous exploration of emerging methodologies to keep your project ahead.
+  </p>
 
 ---
 
