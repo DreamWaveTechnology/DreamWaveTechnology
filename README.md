@@ -24,7 +24,6 @@
 <div align="center">
   <h1> 🛠️ Our Services </h1>
   <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
-
   <p>
     <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
     <b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility. <br>
@@ -38,10 +37,8 @@
 ---
 
 <div align="center">
-
   <h1> 🌟 Why Choose DreamWave? </h1>
   <h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
-
   <p>
     <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
     <b>Skill-Enhancing Design</b> – Projects structured to provide real-world learning and skill development. <br>
@@ -51,16 +48,13 @@
     <b>Universal Accessibility</b> – Solutions designed to be widely usable, regardless of technical expertise. <br>
     <b>Commitment to Innovation</b> – Continuous exploration of emerging methodologies to keep your project ahead.
   </p>
-
 </div>
 
 ---
 
 <div align="center">
-
   <h1> 📂 Project Showcase </h1>
   <h3>Our portfolio reflects a commitment to precision, creativity, and tangible results.</h3>
-  
   <p>
     <b>Custom Portfolio Websites</b> – Professional digital showcases for individuals and businesses. <br>
     <b>E-Commerce Solutions</b> – Feature-rich online marketplaces with integrated shopping systems. <br>
@@ -68,26 +62,24 @@
     <b>Fully Responsive Web Design</b> – Optimized, accessible experiences across all devices. <br>
     <b>Business Management Systems</b> – Internal dashboards and tools for operational efficiency. <br>
   </p>
-
 </div>
 
 ---
 
-<h1 align="center"> 📖 Our Story </h1>
-
-Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.
-
-Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.
-
-Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.
+<div align="center">
+  <h1> 📖 Our Story </h1>
+  <h3>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</h3>
+  <h3>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</h3>
+  <h3>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</h3>
+</div>
 
 ---
 
-<h1 align="center"> 🤝 Become a Creator </h1>
-
-Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.
-
-**Process:** Login → Open Profile → Select 'Creator'
+<div align="center">
+  <h1> 🤝 Become a Creator </h1>
+  <h3>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</h3>
+  <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
+</div>
 
 ---
 
