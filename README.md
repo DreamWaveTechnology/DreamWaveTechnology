@@ -44,8 +44,11 @@
 
 ---
 
-<a href="">
-  <img src="https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit DreamWave Technology Website">
-</a>
+<div align="center">
+  <h2> 🛠️ Languages & Tools </h2>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,python,django,php,mysql,nodejs,react,nextjs,materialui,vite,vue,mongodb,spring,dotnet,cs,angular,laravel,vscode,idea,pycharm,git,github,postman,aws,eclipse,sublime,ps,ai,xd,kali,dart,flutter,visualstudio,androidstudio,firebase,cloudflare,wordpress,anaconda,md" />
+  </a>
+</div>
 
 
