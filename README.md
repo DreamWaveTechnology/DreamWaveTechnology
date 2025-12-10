@@ -6,6 +6,17 @@
   </a>
 </p>
 
+<p align="center">
+  <a href="">
+    <img src="https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit DreamWave Technology Website">
+  </a>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=DreamWaveTechnology&style=for-the-badge&color=blue" alt="Visitor Count" />
+  <img src="https://img.shields.io/github/followers/DreamWaveTechnology?style=for-the-badge&color=blue" alt="GitHub Followers">
+</div>
+
 ---
 
 <h3> 🪄 About DreamWave Technology </h3>
@@ -26,3 +37,11 @@
 [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029Vb6dqy51yT2B9J8hEn3f) 
 [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+zZ5u7Fu2UehiZThl) 
 [<img src="https://img.shields.io/badge/-YouTube-%23E60023?style=for-the-badge&logo=YouTube&logoColor=white" />](https://www.youtube.com/@DreamWaveTechnology)  
+
+---
+
+<a href="">
+  <img src="https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit DreamWave Technology Website">
+</a>
+
+
