@@ -15,8 +15,8 @@
 ---
 
 <div align="center">
-  <h3>DreamWave Technology transforms innovative concepts into powerful digital experiences. We specialize in developing dynamic web applications, robust e-commerce platforms, and sophisticated management systems.</h3>
-  <h3>Additionally, we craft modern, ATS-optimized professional resumes and portfolios designed to help individuals excel in today's competitive job market. Our solutions are secure, creative, and built for       growth.</h3>
+  <p>DreamWave Technology transforms innovative concepts into powerful digital experiences. We specialize in developing dynamic web applications, robust e-commerce platforms, and sophisticated management systems.</p>
+  <p>Additionally, we craft modern, ATS-optimized professional resumes and portfolios designed to help individuals excel in today's competitive job market. Our solutions are secure, creative, and built for       growth.</p>
 </div>
 
 ---
@@ -68,16 +68,16 @@
 
 <div align="center">
   <h1> 📖 Our Story </h1>
-  <h3>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</h3>
-  <h3>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</h3>
-  <h3>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</h3>
+  <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
+  <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
+  <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
 </div>
 
 ---
 
 <div align="center">
   <h1> 🤝 Become a Creator </h1>
-  <h3>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</h3>
+  <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
   <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
 </div>
 
