@@ -6,6 +6,10 @@
   </a>
 </p>
 
+<div align="center">
+  <h2>Empowering Innovation for a Digital Future</h2>
+</div>
+
 <p align="center">
   <a href="">
     <img src="https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit DreamWave Technology Website">
