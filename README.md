@@ -21,7 +21,7 @@
 
 ---
 
-## 🛠️ Our Services
+<h1 align="center"> 🛠️ Our Services </h1>
 
 We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.
 
@@ -36,7 +36,7 @@ We provide a comprehensive suite of digital services, meticulously tailored to b
 
 ---
 
-## 🌟 Why Choose DreamWave?
+<h1 align="center"> 🌟 Why Choose DreamWave? </h1>
 
 We deliver solutions that are not only functional but transformative, built on a foundation of core principles.
 
@@ -52,7 +52,7 @@ We deliver solutions that are not only functional but transformative, built on a
 
 ---
 
-## 📂 Project Showcase
+<h1 align="center"> 📂 Project Showcase </h1>
 
 Our portfolio reflects a commitment to precision, creativity, and tangible results.
 
@@ -66,7 +66,7 @@ Our portfolio reflects a commitment to precision, creativity, and tangible resul
 
 ---
 
-## 📖 Our Story
+<h1 align="center"> 📖 Our Story </h1>
 
 Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.
 
@@ -76,7 +76,7 @@ Guided by principles of innovation, integrity, and collaboration, we are dedicat
 
 ---
 
-## 🤝 Become a Creator
+<h1 align="center"> 🤝 Become a Creator </h1>
 
 Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.
 
@@ -84,7 +84,7 @@ Interested in collaborating with DreamWave Technology? Join our growing communit
 
 ---
 
-## 📞 Get In Touch
+<h1 align="center"> 📞 Get In Touch </h1>
 
 We welcome your inquiries. Our team is committed to providing a responsive and professional experience.
 
