@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://i.postimg.cc/7h1bbfs7/dwt-logo.png" height="150">
-  <h1>Welcome to DREAMWAVE TECHNOLOGY</h1>
+  <h1>WELCOME TO DREAMWAVE TECHNOLOGY</h1>
   <h3>Empowering Innovation for a Digital Future</h3>
   <a href="">Visit DreamWave Technology</a>
 </div>
