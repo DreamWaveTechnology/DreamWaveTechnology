@@ -20,6 +20,7 @@
 </div>
 
 ---
+
 <div align="center">
   <h1> 🛠️ Our Services </h1>
   <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
@@ -32,12 +33,13 @@
     <b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy. <br>
     <b>Document Services</b> – Professional formatting, editing, and technical documentation.
   </p>
+</div>
 
 ---
+<div align="center">
 
-<h1 align="center"> 🌟 Why Choose DreamWave? </h1>
-
-We deliver solutions that are not only functional but transformative, built on a foundation of core principles.
+  <h1> 🌟 Why Choose DreamWave? </h1>
+  <h3></h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
 
   <p>
     <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
@@ -48,6 +50,8 @@ We deliver solutions that are not only functional but transformative, built on a
     <b>Universal Accessibility</b> – Solutions designed to be widely usable, regardless of technical expertise. <br>
     <b>Commitment to Innovation</b> – Continuous exploration of emerging methodologies to keep your project ahead.
   </p>
+
+</div>
 
 ---
 
