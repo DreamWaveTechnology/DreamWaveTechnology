@@ -95,33 +95,36 @@
 
 ---
 
-<h1 align="center"> 📞 Get In Touch </h1>
+<div align="center">
+  <h1> 📞 Get In Touch </h1>
+  <h3>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</h3>
+  
+  <h2>Contact Details</h2>
+  <p>
+    <b>Phone:</b> (+94) 76 311 4977 <br>
+    <b>WhatsApp:</b> (+94) 78 586 1321 <br>
+    <b>Telegram:</b> (+94) 78 586 1321 <br>
+    <b>Email:</b> dreamwavetechnology@email.com <br>
+    <b>Location:</b> Galgamuwa, Kurunegala, Sri Lanka <br>
+  </p>
+  
+  <h2>Working Hours</h2>
+  <p>
+    <b>Weekdays (Mon-Fri):</b> 9:00 AM – 5:00 PM <br>
+    <b>Saturday:</b> 10:00 AM – 4:00 PM <br>
+  </p>
+  
+  <h2>Connect With Us</h2>
+  
+  [<img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@DreamWaveTechnology)
+  [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/profile.php?id=61584730496127)
+  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/dreamwave-technology)
+  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DreamWaveTechnology)
+  [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029Vb6dqy51yT2B9J8hEn3f)
+  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+zZ5u7Fu2UehiZThl)
+  [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />]()
 
-We welcome your inquiries. Our team is committed to providing a responsive and professional experience.
-
-### Contact Details
-<ul>
-  <li><b>Phone:</b> (+94) 76 311 4977</li>
-  <li><b>WhatsApp:</b> (+94) 78 586 1321</li>
-  <li><b>Telegram:</b> (+94) 78 586 1321</li>
-  <li><b>Email:</b> dreamwavetechnology@email.com</li>
-  <li><b>Location:</b> Galgamuwa, Kurunegala, Sri Lanka</li>
-</ul>
-
-### Working Hours
-<ul>
-  <li><b>Weekdays (Mon-Fri):</b> 9:00 AM – 5:00 PM</li>
-  <li><b>Saturday:</b> 10:00 AM – 4:00 PM</li>
-</ul>
-
-### Connect With Us
-[<img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@DreamWaveTechnology)
-[<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/profile.php?id=61584730496127)
-[<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/dreamwave-technology)
-[<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DreamWaveTechnology)
-[<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029Vb6dqy51yT2B9J8hEn3f)
-[<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+zZ5u7Fu2UehiZThl)
-[<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />]()
+</div>
 
 ---
 
