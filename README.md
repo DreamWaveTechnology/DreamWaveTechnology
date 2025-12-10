@@ -1,5 +1,7 @@
 # DreamWave Technology
 
+<img src="https://i.postimg.cc/7h1bbfs7/dwt-logo.png">
+
 ## 🚀 Empowering Innovation for a Digital Future
 
 DreamWave Technology turns innovative ideas into powerful digital experiences. We specializes in building dynamic web applications, e-commerce platforms, and sophisticated management systems.
