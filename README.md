@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/3wFwhmD1/readme-bg.jpg"  width="100%" alt="DreamWave Technology">
+<img src="https://i.postimg.cc/651gwb8g/dwt-github-bg.png"  width="100%" alt="DreamWave Technology">
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
