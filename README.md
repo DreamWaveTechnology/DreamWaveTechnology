@@ -51,29 +51,29 @@
   </a>
 </div>
 
-<div align="center">
+<div>
   <h2> 🛠️ Our Services </h2>
   <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p>
 </div>
 
-<div align="center">
+<div>
   <h2> 🌟 Why Choose DreamWave? </h2>
   <p>We deliver solutions that are not only functional but transformative, built on a foundation of core principles: Security & Reliability, ensuring robust architectures and consistent performance; Skill-Enhancing Design, structuring projects to provide real-world learning and skill development; Future-Proof Technology, utilizing modern, scalable stacks for long-term viability; UI/UX Excellence, creating intuitive and aesthetically refined interfaces for superior user experiences; Dedicated Support, offering continuous assistance and a collaborative partnership approach; Universal Accessibility, designing solutions to be widely usable regardless of technical expertise; and a Commitment to Innovation, involving the continuous exploration of emerging methodologies to keep your project ahead.</p>
 </div>
 
-<div align="center">
+<div>
   <h2> 📂 Project Showcase </h2>
   <p>Our portfolio reflects a commitment to precision, creativity, and tangible results, showcasing various projects including Custom Portfolio Websites (professional digital showcases for individuals and businesses), E-Commerce Solutions (feature-rich online marketplaces with integrated shopping systems), Resume Builder Platforms (tools and services for creating standout professional documents), Fully Responsive Web Design (optimized, accessible experiences across all devices), and Business Management Systems (internal dashboards and tools designed for operational efficiency).</p>
 </div>
 
-<div align="center">
+<div>
   <h2> 📜 Our Story </h2>
   <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
   <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on key areas including web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
   <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
 </div>
 
-<div align="center">
+<div>
   <h2> 🤝 Become a Creator </h2>
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
   <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
@@ -89,7 +89,7 @@
 
 </div> -->
 
-<div align="center">
+<div>
   <h2> 📞 Get In Touch </h2>
   <h3>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</h3>
   
@@ -107,19 +107,10 @@
     <b>Weekdays (Mon-Fri):</b> 9:00 AM – 5:00 PM <br>
     <b>Saturday:</b> 10:00 AM – 4:00 PM <br>
   </p>
-  
-  <h2>Connect With Us</h2>
-  
-  [<img src="https://img.shields.io/badge/YouTube-%23FF0000?style=for-the-badge&logo=youtube&logoColor=white" />](https://www.youtube.com/@DreamWaveTechnology)
-  [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://web.facebook.com/profile.php?id=61584730496127)
-  [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/company/dreamwave-technology)
-  [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/DreamWaveTechnology)
-  [<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />](https://whatsapp.com/channel/0029Vb6dqy51yT2B9J8hEn3f)
-  [<img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />](https://t.me/+zZ5u7Fu2UehiZThl)
-  [<img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" />]()
 
 </div>
 
+---
 
 <div align="center">
   <i>© 2025 DreamWave Technology | All rights reserved.</i>
