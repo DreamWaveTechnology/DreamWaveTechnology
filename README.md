@@ -25,7 +25,7 @@
 
 <h3> 🪄 About DreamWave Technology </h3>
 
-<img align="right" width="370" height="290" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true">
+<img align="right" width="400" height="310" src="https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 🌊 DreamWave Technology transforms innovative concepts into powerful digital experiences. We specialize in developing dynamic web applications, robust e-commerce platforms, and sophisticated management systems.
 <br><br>
@@ -50,5 +50,4 @@
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,python,django,php,mysql,nodejs,react,nextjs,materialui,vite,vue,mongodb,spring,dotnet,cs,angular,laravel,vscode,idea,pycharm,git,github,postman,aws,eclipse,sublime,ps,ai,xd,kali,dart,flutter,visualstudio,androidstudio,firebase,cloudflare,wordpress,anaconda,md" />
   </a>
 </div>
-
 
