@@ -53,47 +53,23 @@
 
 <div align="center">
   <h2> 🛠️ Our Services </h2>
-  <h3>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact.</h3>
-  <p>
-    <b>Web Development</b> – Full-stack, custom web applications, from responsive portfolios to complex, data-driven platforms. <br>
-    <b>Portfolio & Resume Design</b> – Modern, professional, and ATS-friendly documents that enhance career visibility. <br>
-    <b>UI/UX Design</b> – Intuitive, engaging user interfaces focused on usability and conversion. <br>
-    <b>E-Commerce Platforms</b> – Secure, scalable online stores engineered for retail success. <br>
-    <b>Technology Consultation</b> – Expert guidance on tech stack selection, project architecture, and digital strategy. <br>
-    <b>Document Services</b> – Professional formatting, editing, and technical documentation.
-  </p>
+  <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p>
 </div>
 
 <div align="center">
   <h2> 🌟 Why Choose DreamWave? </h2>
-  <h3>We deliver solutions that are not only functional but transformative, built on a foundation of core principles.</h3>
-  <p>
-    <b>Security & Reliability</b> – Robust architectures and consistent performance are paramount. <br>
-    <b>Skill-Enhancing Design</b> – Projects structured to provide real-world learning and skill development. <br>
-    <b>Future-Proof Technology</b> – Utilization of modern, scalable stacks for long-term viability. <br>
-    <b>UI/UX Excellence</b> – Intuitive and aesthetically refined interfaces for superior user experiences. <br>
-    <b>Dedicated Support</b> – Continuous assistance and a collaborative partnership approach. <br>
-    <b>Universal Accessibility</b> – Solutions designed to be widely usable, regardless of technical expertise. <br>
-    <b>Commitment to Innovation</b> – Continuous exploration of emerging methodologies to keep your project ahead.
-  </p>
+  <p>We deliver solutions that are not only functional but transformative, built on a foundation of core principles: Security & Reliability, ensuring robust architectures and consistent performance; Skill-Enhancing Design, structuring projects to provide real-world learning and skill development; Future-Proof Technology, utilizing modern, scalable stacks for long-term viability; UI/UX Excellence, creating intuitive and aesthetically refined interfaces for superior user experiences; Dedicated Support, offering continuous assistance and a collaborative partnership approach; Universal Accessibility, designing solutions to be widely usable regardless of technical expertise; and a Commitment to Innovation, involving the continuous exploration of emerging methodologies to keep your project ahead.</p>
 </div>
 
 <div align="center">
   <h2> 📂 Project Showcase </h2>
-  <h3>Our portfolio reflects a commitment to precision, creativity, and tangible results.</h3>
-  <p>
-    <b>Custom Portfolio Websites</b> – Professional digital showcases for individuals and businesses. <br>
-    <b>E-Commerce Solutions</b> – Feature-rich online marketplaces with integrated shopping systems. <br>
-    <b>Resume Builder Platforms</b> – Tools and services for creating standout professional documents. <br>
-    <b>Fully Responsive Web Design</b> – Optimized, accessible experiences across all devices. <br>
-    <b>Business Management Systems</b> – Internal dashboards and tools for operational efficiency. <br>
-  </p>
+  <p>Our portfolio reflects a commitment to precision, creativity, and tangible results, showcasing various projects including Custom Portfolio Websites (professional digital showcases for individuals and businesses), E-Commerce Solutions (feature-rich online marketplaces with integrated shopping systems), Resume Builder Platforms (tools and services for creating standout professional documents), Fully Responsive Web Design (optimized, accessible experiences across all devices), and Business Management Systems (internal dashboards and tools designed for operational efficiency).</p>
 </div>
 
 <div align="center">
-  <h2> 📖 Our Story </h2>
+  <h2> 📜 Our Story </h2>
   <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
-  <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
+  <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on key areas including web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
   <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
 </div>
 
