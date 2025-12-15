@@ -47,7 +47,7 @@
 <div align="center">
   <h2> 🛠️ Languages & Tools </h2>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,python,django,flask,php,mysql,sqlite,nodejs,npm,react,nextjs,docker,materialui,vite,vue,jquery,flutter,kotlin,mongodb,maven,spring,dotnet,cs,angular,go,graphql,postgres,fastapi,md,laravel,vscode,idea,pycharm,git,github,githubactions,gitlab,postman,replit,aws,powershell,eclipse,sublime,ps,ai,xd,ae,pr,kali,ubuntu,dart,bots,linux,windows,visualstudio,androidstudio,firebase,cloudflare,gcp,wordpress,figma,anaconda,gmail,netlify,linkedin" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,python,django,flask,php,mysql,sqlite,nodejs,npm,react,nextjs,docker,materialui,vite,vue,jquery,flutter,kotlin,mongodb,maven,spring,dotnet,cs,angular,go,graphql,postgres,fastapi,md,yarn,laravel,vscode,idea,pycharm,git,github,githubactions,gitlab,postman,replit,aws,powershell,eclipse,sublime,ps,ai,xd,ae,pr,kali,ubuntu,dart,bots,linux,windows,visualstudio,androidstudio,pytorch,firebase,cloudflare,gcp,wordpress,figma,anaconda,gmail,netlify,vercel,linkedin,workers" />
   </a>
 </div>
 
