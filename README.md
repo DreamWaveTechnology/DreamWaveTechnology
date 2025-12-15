@@ -91,7 +91,7 @@
 
 <div>
   <h3> 📞 Get In Touch </h3>
-  <h3>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</h3>
+  <p>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</p>
   
   <h3>Contact Details</h3>
   <p>
