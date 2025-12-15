@@ -45,36 +45,36 @@
 ---
 
 <div align="center">
-  <h2> 🛠️ Languages & Tools </h2>
+  <h2> Languages & Tools </h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,ts,java,python,django,flask,php,mysql,sqlite,nodejs,npm,react,nextjs,docker,materialui,vite,vue,jquery,flutter,kotlin,mongodb,maven,spring,dotnet,cs,angular,go,graphql,postgres,fastapi,md,yarn,laravel,vscode,idea,pycharm,git,github,githubactions,gitlab,postman,replit,aws,powershell,eclipse,sublime,ps,ai,xd,ae,pr,kali,ubuntu,dart,bots,linux,windows,visualstudio,androidstudio,pytorch,firebase,cloudflare,gcp,wordpress,figma,anaconda,gmail,netlify,vercel,linkedin,workers" />
   </a>
 </div>
 
 <div>
-  <h2> 🛠️ Our Services </h2>
+  <h3> 🛠️ Our Services </h3>
   <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p>
 </div>
 
 <div>
-  <h2> 🌟 Why Choose DreamWave? </h2>
+  <h3> 🌟 Why Choose DreamWave? </h3>
   <p>We deliver solutions that are not only functional but transformative, built on a foundation of core principles: Security & Reliability, ensuring robust architectures and consistent performance; Skill-Enhancing Design, structuring projects to provide real-world learning and skill development; Future-Proof Technology, utilizing modern, scalable stacks for long-term viability; UI/UX Excellence, creating intuitive and aesthetically refined interfaces for superior user experiences; Dedicated Support, offering continuous assistance and a collaborative partnership approach; Universal Accessibility, designing solutions to be widely usable regardless of technical expertise; and a Commitment to Innovation, involving the continuous exploration of emerging methodologies to keep your project ahead.</p>
 </div>
 
 <div>
-  <h2> 📂 Project Showcase </h2>
+  <h3> 📂 Project Showcase </h3>
   <p>Our portfolio reflects a commitment to precision, creativity, and tangible results, showcasing various projects including Custom Portfolio Websites (professional digital showcases for individuals and businesses), E-Commerce Solutions (feature-rich online marketplaces with integrated shopping systems), Resume Builder Platforms (tools and services for creating standout professional documents), Fully Responsive Web Design (optimized, accessible experiences across all devices), and Business Management Systems (internal dashboards and tools designed for operational efficiency).</p>
 </div>
 
 <div>
-  <h2> 📜 Our Story </h2>
+  <h3> 📜 Our Story </h3>
   <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
   <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on key areas including web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
   <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
 </div>
 
 <div>
-  <h2> 🤝 Become a Creator </h2>
+  <h3> 🤝 Become a Creator </h3>
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
   <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
 </div>
@@ -90,10 +90,10 @@
 </div> -->
 
 <div>
-  <h2> 📞 Get In Touch </h2>
+  <h3> 📞 Get In Touch </h3>
   <h3>We welcome your inquiries. Our team is committed to providing a responsive and professional experience.</h3>
   
-  <h2>Contact Details</h2>
+  <h3>Contact Details</h3>
   <p>
     <b>Phone:</b> (+94) 76 311 4977 <br>
     <b>WhatsApp:</b> (+94) 78 586 1321 <br>
@@ -102,7 +102,7 @@
     <b>Location:</b> Galgamuwa, Kurunegala, Sri Lanka <br>
   </p>
   
-  <h2>Working Hours</h2>
+  <h3>Working Hours</h3>
   <p>
     <b>Weekdays (Mon-Fri):</b> 9:00 AM – 5:00 PM <br>
     <b>Saturday:</b> 10:00 AM – 4:00 PM <br>
