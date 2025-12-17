@@ -76,7 +76,10 @@
 <div>
   <h3> 🤝 Become a Creator </h3>
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
-  <p><b>Process:</b> Login → Open Profile → Select 'Creator'</p>
+
+  ```
+  Process: Create Account/Login → Click Profile and Open Profile Page → Select 'Creator' → Create Account & Login to 'Creator Dashboard'
+  ```
 </div>
 
 
