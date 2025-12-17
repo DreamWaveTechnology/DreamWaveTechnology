@@ -78,7 +78,7 @@
   <p>Interested in collaborating with DreamWave Technology? Join our growing community of innovators. We welcome creators who are passionate about building the future.</p>
 
   ```
-  Create Account/Login → Click Profile and Open Profile Page → Select 'Creator' → Create Account & Login to 'Creator Dashboard'
+  Create/Login Account → Click Profile → Open Profile Page → Select 'Creator' → Create & Login Creator Account
   ```
 </div>
 
