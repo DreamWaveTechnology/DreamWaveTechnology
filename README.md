@@ -51,6 +51,16 @@
   </a>
 </div>
 
+<div align="center">
+  <h2> GitHub Analytics </h2>
+  <img src="https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WINODH-PRASANNA&theme=tokyonight" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WINODH-PRASANNA&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>  
+
+---
+
 <div>
   <h3> 🛠️ Our Services </h3>
   <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p>
