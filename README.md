@@ -53,7 +53,7 @@
 
 <div align="center">
   <h2> GitHub Analytics </h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=WINODH-PRASANNA&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DreamWaveTechnology&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WINODH-PRASANNA&theme=tokyonight" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamWaveTechnology&layout=compact&theme=tokyonight" alt="Top Languages" />
