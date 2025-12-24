@@ -55,8 +55,8 @@
   <h2> GitHub Analytics </h2>
   <img src="https://github-readme-stats.vercel.app/api?username=DreamWaveTechnology&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamWaveTechnology&theme=tokyonight" alt="GitHub Streak" />
-  <br>
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com/?user=DreamWaveTechnology&theme=tokyonight" alt="GitHub Streak" /> -->
+  <!-- <br> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DreamWaveTechnology&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>  
 
