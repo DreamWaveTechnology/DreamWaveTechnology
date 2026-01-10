@@ -11,7 +11,7 @@
 </div>
 
 <p align="center">
-  <a href="">
+  <a href="https://dreamwave-technology.netlify.app" target="_blank">
     <img src="https://img.shields.io/badge/Visit_Our_Website-blue?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Visit DreamWave Technology Website">
   </a>
 </p>
