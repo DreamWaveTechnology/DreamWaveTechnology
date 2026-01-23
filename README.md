@@ -99,8 +99,17 @@
 </div>
 
 <div>
-  <h3> 📂 Project Showcase </h3>
-  <p>Our portfolio reflects a commitment to precision, creativity, and tangible results, showcasing various projects including Custom Portfolio Websites (professional digital showcases for individuals and businesses), E-Commerce Solutions (feature-rich online marketplaces with integrated shopping systems), Resume Builder Platforms (tools and services for creating standout professional documents), Fully Responsive Web Design (optimized, accessible experiences across all devices), and Business Management Systems (internal dashboards and tools designed for operational efficiency).</p>
+  <h3> 📂 Our Work </h3>
+  <p>Our portfolio showcases thoughtfully engineered projects that balance creativity with measurable results.</p>
+
+  <p>Featured Project Types</p>
+
+  - Portfolio Websites – Professional digital identities for individuals and brands
+  - E-Commerce Platforms – Feature-rich online stores with integrated commerce systems
+  - Resume Builder Tools – Platforms that help professionals stand out
+  - Responsive Web Design – Optimized experiences across all devices
+  - Management Systems – Internal dashboards and tools for operational efficiency
+  
 </div>
 
 <div>
