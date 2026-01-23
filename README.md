@@ -8,7 +8,7 @@
   <h2>Empowering Innovation for a Digital Future</h2>
 </div>
 
-<br>
+---
 
 <p align="center">
   <a href="https://dreamwave-technology.netlify.app" target="_blank">
