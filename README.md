@@ -1,5 +1,3 @@
-<img src="https://i.postimg.cc/651gwb8g/dwt-github-bg.png"  width="100%" alt="DreamWave Technology">
-
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=1aadf2&center=true&vCenter=true&width=600&height=80&lines=HEY+THERE+😃;WELCOME+TO+DREAMWAVE+TECHNOLOGY!">
@@ -20,6 +18,10 @@
   <img src="https://komarev.com/ghpvc/?username=DreamWaveTechnology&style=for-the-badge&color=blue" alt="Visitor Count" />
   <img src="https://img.shields.io/github/followers/DreamWaveTechnology?style=for-the-badge&color=blue" alt="GitHub Followers">
 </div>
+
+---
+
+<img src="https://i.postimg.cc/651gwb8g/dwt-github-bg.png"  width="100%" alt="DreamWave Technology">
 
 ---
 
