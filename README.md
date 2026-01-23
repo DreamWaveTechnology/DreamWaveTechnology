@@ -68,12 +68,10 @@
 
 <div>
   <h3> 🛠️ What We Do </h3>
-  <!-- <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p> -->
 
   <p>At DreamWave Technology, we deliver end-to-end digital solutions designed to transform ideas into reliable, high-impact products. Our services combine technical precision, modern design, and strategic thinking to support both business growth and professional development.</p>
-
+  
   <p>Our Core Services</p>
-
   - Web Development – Custom full-stack applications, from responsive portfolios to complex, data-driven systems
   -  Portfolio & Resume Design – Modern, professional, and ATS-optimized resumes and portfolios
   - UI/UX Design – Intuitive, user-centered interfaces focused on usability and conversion
@@ -83,8 +81,18 @@
 </div>
 
 <div>
-  <h3> 🌟 Why Choose DreamWave? </h3>
-  <p>We deliver solutions that are not only functional but transformative, built on a foundation of core principles: Security & Reliability, ensuring robust architectures and consistent performance; Skill-Enhancing Design, structuring projects to provide real-world learning and skill development; Future-Proof Technology, utilizing modern, scalable stacks for long-term viability; UI/UX Excellence, creating intuitive and aesthetically refined interfaces for superior user experiences; Dedicated Support, offering continuous assistance and a collaborative partnership approach; Universal Accessibility, designing solutions to be widely usable regardless of technical expertise; and a Commitment to Innovation, involving the continuous exploration of emerging methodologies to keep your project ahead.</p>
+  <h3> 🌟 Why DreamWave Technology? </h3>
+  <p>We go beyond functionality to build solutions that create long-term value. Our approach is grounded in quality, innovation, and collaboration.</p>
+
+  <p>Our Principles</p>
+  - Security & Stability – Robust architectures with dependable performance
+  - Scalable Technology – Modern stacks designed for future growth
+  - UI/UX Excellence – Clean, intuitive, and visually refined experiences
+  - Skill-Driven Design – Solutions structured for real-world learning and impact
+  - Collaborative Support – Ongoing guidance and transparent communication
+  - Accessible Solutions – Products designed for usability across all skill levels
+  - Innovation-Focused – Continuous adoption of emerging tools and best practices
+  
 </div>
 
 <div>
