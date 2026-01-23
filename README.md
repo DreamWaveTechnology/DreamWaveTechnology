@@ -21,6 +21,8 @@
   <img src="https://img.shields.io/github/followers/DreamWaveTechnology?style=for-the-badge&color=blue" alt="GitHub Followers">
 </div>
 
+---
+
 <img src="https://i.postimg.cc/651gwb8g/dwt-github-bg.png"  width="100%" alt="DreamWave Technology">
 
 ---
