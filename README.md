@@ -113,10 +113,10 @@
 </div>
 
 <div>
-  <h3> 📜 Our Story </h3>
-  <p>Founded in 2025 by Winodh Prasanna, DreamWave Technology was born from a vision to bridge innovative ideas with practical digital execution.</p>
-  <p>Our mission is to empower businesses and individuals by delivering high-quality, reliable, and customized solutions. We focus on key areas including web applications, e-commerce, management systems, and professional branding, combining technical excellence with creative functionality.</p>
-  <p>Guided by principles of innovation, integrity, and collaboration, we are dedicated to helping our clients achieve meaningful impact in the digital landscape.</p>
+  <h3> 📜 About DreamWave </h3>
+  <p>Founded in 2025 by **Winodh Prasanna**, DreamWave Technology was created to bridge innovative ideas with practical digital execution.</p>
+  <p>Our mission is to empower businesses and individuals through reliable, high-quality, and customized digital solutions. We specialize in web applications, e-commerce platforms, management systems, and professional branding—combining technical expertise with purposeful design.</p>
+  <p>Driven by innovation, integrity, and collaboration, we are committed to delivering solutions that make a meaningful and lasting impact.</p>
 </div>
 
 <div>
