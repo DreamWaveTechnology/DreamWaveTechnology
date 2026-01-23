@@ -72,12 +72,14 @@
   <p>At DreamWave Technology, we deliver end-to-end digital solutions designed to transform ideas into reliable, high-impact products. Our services combine technical precision, modern design, and strategic thinking to support both business growth and professional development.</p>
   
   <p>Our Core Services</p>
+  
   - Web Development – Custom full-stack applications, from responsive portfolios to complex, data-driven systems
   -  Portfolio & Resume Design – Modern, professional, and ATS-optimized resumes and portfolios
   - UI/UX Design – Intuitive, user-centered interfaces focused on usability and conversion
   - E-Commerce Solutions – Secure, scalable online stores built for performance and growth
   - Technology Consulting – Expert guidance on tech stacks, system architecture, and digital strategy
   - Document Services – Professional formatting, editing, and technical documentation
+
 </div>
 
 <div>
@@ -85,6 +87,7 @@
   <p>We go beyond functionality to build solutions that create long-term value. Our approach is grounded in quality, innovation, and collaboration.</p>
 
   <p>Our Principles</p>
+  
   - Security & Stability – Robust architectures with dependable performance
   - Scalable Technology – Modern stacks designed for future growth
   - UI/UX Excellence – Clean, intuitive, and visually refined experiences
