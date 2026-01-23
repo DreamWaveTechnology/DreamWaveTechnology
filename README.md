@@ -67,8 +67,19 @@
 ---
 
 <div>
-  <h3> 🛠️ Our Services </h3>
-  <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p>
+  <h3> 🛠️ What We Do </h3>
+  <!-- <p>We provide a comprehensive suite of digital services, meticulously tailored to bring your vision to life with precision and impact. Our offerings include Web Development, covering full-stack, custom web applications ranging from responsive portfolios to complex, data-driven platforms; Portfolio & Resume Design, creating modern, professional, and ATS-friendly documents that enhance career visibility; UI/UX Design, focused on building intuitive, engaging user interfaces for usability and conversion; and E-Commerce Platforms, where we engineer secure, scalable online stores for retail success. Additionally, we offer Technology Consultation, providing expert guidance on tech stack selection, project architecture, and digital strategy, as well as Document Services, which encompasses professional formatting, editing, and technical documentation.</p> -->
+
+  <p>At DreamWave Technology, we deliver end-to-end digital solutions designed to transform ideas into reliable, high-impact products. Our services combine technical precision, modern design, and strategic thinking to support both business growth and professional development.</p>
+
+  <p>Our Core Services</p>
+
+  - Web Development – Custom full-stack applications, from responsive portfolios to complex, data-driven systems
+  -  Portfolio & Resume Design – Modern, professional, and ATS-optimized resumes and portfolios
+  - UI/UX Design – Intuitive, user-centered interfaces focused on usability and conversion
+  - E-Commerce Solutions – Secure, scalable online stores built for performance and growth
+  - Technology Consulting – Expert guidance on tech stacks, system architecture, and digital strategy
+  - Document Services – Professional formatting, editing, and technical documentation
 </div>
 
 <div>
